@@ -1,0 +1,186 @@
+{"abbrev": "14S", "name": "Tentative Spring 2014"}
+{"abbrev": "14W", "name": "Winter 2014"}
+{"abbrev": "13F", "name": "Fall 2013"}
+{"abbrev": "131", "name": "Summer 2013"}
+{"abbrev": "13S", "name": "Spring 2013"}
+{"abbrev": "AERO ST", "name": "Aerospace Studies"}
+{"abbrev": "AF LANG", "name": "African Languages"}
+{"abbrev": "AFRC ST", "name": "African Studies"}
+{"abbrev": "AFRKAAN", "name": "Afrikaans"}
+{"abbrev": "AFRO-AM", "name": "Afro-American Studies"}
+{"abbrev": "AM IND", "name": "American Indian Studies"}
+{"abbrev": "ASL", "name": "American Sign Language"}
+{"abbrev": "AN N EA", "name": "Ancient Near East"}
+{"abbrev": "ANES", "name": "Anesthesiology"}
+{"abbrev": "ANTHRO", "name": "Anthropology"}
+{"abbrev": "APPLING", "name": "Applied Linguistics"}
+{"abbrev": "ARABIC", "name": "Arabic"}
+{"abbrev": "ARCHEOL", "name": "Archaeology"}
+{"abbrev": "ARCH&UD", "name": "Architecture and Urban Design"}
+{"abbrev": "ARMENIA", "name": "Armenian"}
+{"abbrev": "ART", "name": "Art"}
+{"abbrev": "ART HIS", "name": "Art History"}
+{"abbrev": "ART&ARC", "name": "Arts and Architecture"}
+{"abbrev": "ASIAN", "name": "Asian"}
+{"abbrev": "ASIA AM", "name": "Asian American Studies"}
+{"abbrev": "ASTR", "name": "Astronomy"}
+{"abbrev": "A&O SCI", "name": "Atmospheric and Oceanic Sciences "}
+{"abbrev": "BERBER", "name": "Berber"}
+{"abbrev": "BIOENGR", "name": "Bioengineering"}
+{"abbrev": "BIOINFO", "name": "Bioinformatics (Graduate)"}
+{"abbrev": "BIOINFR", "name": "Bioinformatics (Undergraduate)"}
+{"abbrev": "BIOL CH", "name": "Biological Chemistry"}
+{"abbrev": "BIOMATH", "name": "Biomathematics"}
+{"abbrev": "BMEDPHY", "name": "Biomedical Physics"}
+{"abbrev": "BMD RES", "name": "Biomedical Research"}
+{"abbrev": "BIOSTAT", "name": "Biostatistics"}
+{"abbrev": "BULGAR", "name": "Bulgarian"}
+{"abbrev": "CEE STD", "name": "Central and East European Studies "}
+{"abbrev": "CH ENGR", "name": "Chemical Engineering"}
+{"abbrev": "CHEM", "name": "Chemistry and Biochemistry"}
+{"abbrev": "CHICANO", "name": "Chicana and Chicano Studies"}
+{"abbrev": "CHIN", "name": "Chinese"}
+{"abbrev": "CIVIC", "name": "Civic Engagement"}
+{"abbrev": "C&EE", "name": "Civil and Environmental Engineering"}
+{"abbrev": "CLASSIC", "name": "Classics"}
+{"abbrev": "COMM ST", "name": "Communication Studies"}
+{"abbrev": "COM HLT", "name": "Community Health Sciences"}
+{"abbrev": "COM LIT", "name": "Comparative Literature"}
+{"abbrev": "C&S BIO", "name": "Computational and Systems Biology"}
+{"abbrev": "COM SCI", "name": "Computer Science"}
+{"abbrev": "CAEM", "name": "Conservation of Archaeological Ethnographi..."}
+{"abbrev": "CZECH", "name": "Czech"}
+{"abbrev": "DANCE", "name": "Dance"}
+{"abbrev": "DENT", "name": "Dentistry"}
+{"abbrev": "DESMA", "name": "Design | Media Arts"}
+{"abbrev": "DGT HUM", "name": "Digital Humanities"}
+{"abbrev": "DIS STD", "name": "Disability Studies"}
+{"abbrev": "DUTCH", "name": "Dutch"}
+{"abbrev": "E&S SCI", "name": "Earth and Space Sciences (Pre-Winter 2014)"}
+{"abbrev": "EPS SCI", "name": "Earth, Planetary, and Space Sciences"}
+{"abbrev": "EA STDS", "name": "East Asian Studies"}
+{"abbrev": "E A STD", "name": "East Asian Studies (Pre Fall 2012)"}
+{"abbrev": "EE BIOL", "name": "Ecology and Evolutionary Biology "}
+{"abbrev": "ECON", "name": "Economics"}
+{"abbrev": "EDUC", "name": "Education"}
+{"abbrev": "EL ENGR", "name": "Electrical Engineering"}
+{"abbrev": "ENGR", "name": "Engineering"}
+{"abbrev": "ENGL", "name": "English"}
+{"abbrev": "ESL", "name": "English as a Second Language "}
+{"abbrev": "ENGCOMP", "name": "English Composition"}
+{"abbrev": "ENVIRON", "name": "Environment"}
+{"abbrev": "ENV HLT", "name": "Environmental Health Sciences"}
+{"abbrev": "EPIDEM", "name": "Epidemiology"}
+{"abbrev": "ETHNOMU", "name": "Ethnomusicology"}
+{"abbrev": "FAM MED", "name": "Family Medicine"}
+{"abbrev": "FILIPNO", "name": "Filipino"}
+{"abbrev": "FILM TV", "name": "Film and Television"}
+{"abbrev": "FRNCH", "name": "French"}
+{"abbrev": "GENDER", "name": "Gender Studies"}
+{"abbrev": "GE CLST", "name": "General Education Clusters"}
+{"abbrev": "GEOG", "name": "Geography"}
+{"abbrev": "GERMAN", "name": "German"}
+{"abbrev": "GRNTLGY", "name": "Gerontology"}
+{"abbrev": "GLBL ST", "name": "Global Studies"}
+{"abbrev": "GREEK", "name": "Greek"}
+{"abbrev": "HLT POL", "name": "Health Policy and Management"}
+{"abbrev": "HEBREW", "name": "Hebrew"}
+{"abbrev": "HIN-URD", "name": "Hindi-Urdu"}
+{"abbrev": "HIST", "name": "History"}
+{"abbrev": "HNRS", "name": "Honors Collegium"}
+{"abbrev": "HUM GEN", "name": "Human Genetics"}
+{"abbrev": "HUNGRN", "name": "Hungarian"}
+{"abbrev": "ILA", "name": "Indigenous Languages of the Americas"}
+{"abbrev": "I E STD", "name": "Indo-European Studies"}
+{"abbrev": "INDO", "name": "Indonesian"}
+{"abbrev": "INF STD", "name": "Information Studies"}
+{"abbrev": "I A STD", "name": "International and Area Studies"}
+{"abbrev": "INTL DV", "name": "International Development Studies"}
+{"abbrev": "IRANIAN", "name": "Iranian"}
+{"abbrev": "ISLAMIC", "name": "Islamics"}
+{"abbrev": "ISLM ST", "name": "Islamic Studies"}
+{"abbrev": "ITALIAN", "name": "Italian"}
+{"abbrev": "JAPAN", "name": "Japanese"}
+{"abbrev": "JEWISH", "name": "Jewish Studies"}
+{"abbrev": "KOREA", "name": "Korean"}
+{"abbrev": "LBR&WS", "name": "Labor and Workplace Studies"}
+{"abbrev": "LATIN", "name": "Latin"}
+{"abbrev": "LATN AM", "name": "Latin American Studies"}
+{"abbrev": "LAW", "name": "Law"}
+{"abbrev": "UG-LAW", "name": "Law, Undergraduate"}
+{"abbrev": "LGBTS", "name": "Lesbian, Gay, Bisexual, and Transgender St..."}
+{"abbrev": "LIFESCI", "name": "Life Sciences"}
+{"abbrev": "LING", "name": "Linguistics"}
+{"abbrev": "LITHUAN", "name": "Lithuanian"}
+{"abbrev": "MGMT", "name": "Management"}
+{"abbrev": "MAT SCI", "name": "Materials Science and Engineering"}
+{"abbrev": "MATH", "name": "Mathematics"}
+{"abbrev": "MECH&AE", "name": "Mechanical and Aerospace Engineering"}
+{"abbrev": "MED HIS", "name": "Medical History"}
+{"abbrev": "MED", "name": "Medicine"}
+{"abbrev": "MIMG", "name": "Microbiology, Immunology, and Molecular Ge..."}
+{"abbrev": "M E STD", "name": "Middle Eastern Studies"}
+{"abbrev": "MIL SCI", "name": "Military Science"}
+{"abbrev": "M PHARM", "name": "Molecular and Medical Pharmacology"}
+{"abbrev": "MOL BIO", "name": "Molecular Biology"}
+{"abbrev": "MCD BIO", "name": "Molecular, Cell, and Developmental Biology"}
+{"abbrev": "MC&IP", "name": "Molecular, Cellular, and Integrative Physi..."}
+{"abbrev": "MOL TOX", "name": "Molecular Toxicology"}
+{"abbrev": "MIA STD", "name": "Moving Image Archive Studies"}
+{"abbrev": "MUSIC", "name": "Music"}
+{"abbrev": "MUS HST", "name": "Music History"}
+{"abbrev": "MUS IND", "name": "Music Industry"}
+{"abbrev": "MUSCLGY", "name": "Musicology"}
+{"abbrev": "NAV SCI", "name": "Naval Science"}
+{"abbrev": "NR EAST", "name": "Near Eastern Languages"}
+{"abbrev": "NEURBIO", "name": "Neurobiology"}
+{"abbrev": "NEURLGY", "name": "Neurology"}
+{"abbrev": "NEUROSC", "name": "Neuroscience"}
+{"abbrev": "NEURO", "name": "Neuroscience (Graduate)"}
+{"abbrev": "NEURSGY", "name": "Neurosurgery"}
+{"abbrev": "NURSING", "name": "Nursing"}
+{"abbrev": "OBGYN", "name": "Obstetrics and Gynecology"}
+{"abbrev": "OPTH", "name": "Opthalmology"}
+{"abbrev": "ORL BIO", "name": "Oral Biology"}
+{"abbrev": "ORTHPDC", "name": "Orthopaedic Surgery"}
+{"abbrev": "PATH", "name": "Pathology and Laboratory Medicine"}
+{"abbrev": "PEDS", "name": "Pediatrics"}
+{"abbrev": "PHILOS", "name": "Philosophy"}
+{"abbrev": "PHYSICS", "name": "Physics"}
+{"abbrev": "PHYSCI", "name": "Physiological Science"}
+{"abbrev": "PHYSIOL", "name": "Physiology"}
+{"abbrev": "POLISH", "name": "Polish"}
+{"abbrev": "POL SCI", "name": "Political Science"}
+{"abbrev": "PORTGSE", "name": "Portuguese"}
+{"abbrev": "COMPTNG", "name": "Program in Computing"}
+{"abbrev": "PSYCTRY", "name": "Psychiatry and Biobehavioral Sciences"}
+{"abbrev": "PSYCH", "name": "Psychology"}
+{"abbrev": "PUB HLT", "name": "Public Health"}
+{"abbrev": "PUB PLC", "name": "Public Policy"}
+{"abbrev": "RAD ONC", "name": "Radiation Oncology"}
+{"abbrev": "RELIGN", "name": "Religion, Study of"}
+{"abbrev": "ROMAN", "name": "Romanian"}
+{"abbrev": "RUSSIAN", "name": "Russian"}
+{"abbrev": "SCAND", "name": "Scandinavian"}
+{"abbrev": "SCI EDU", "name": "Science Education"}
+{"abbrev": "SEMITIC", "name": "Semitics"}
+{"abbrev": "SER CRO", "name": "Serbian/Croatian"}
+{"abbrev": "SLAVIC", "name": "Slavic"}
+{"abbrev": "SOC THT", "name": "Social Thought"}
+{"abbrev": "SOC WLF", "name": "Social Welfare"}
+{"abbrev": "SOC GEN", "name": "Society and Genetics"}
+{"abbrev": "SOCIOL", "name": "Sociology"}
+{"abbrev": "S ASIAN", "name": "South Asian"}
+{"abbrev": "SEASIAN", "name": "Southeast Asian"}
+{"abbrev": "SPAN", "name": "Spanish"}
+{"abbrev": "STATS", "name": "Statistics"}
+{"abbrev": "SURGERY", "name": "Surgery"}
+{"abbrev": "THAI", "name": "Thai"}
+{"abbrev": "THEATER", "name": "Theater"}
+{"abbrev": "TURKIC", "name": "Turkic Languages"}
+{"abbrev": "UKRAIN", "name": "Ukrainian"}
+{"abbrev": "URBN PL", "name": "Urban Planning"}
+{"abbrev": "UROLOGY", "name": "Urology"}
+{"abbrev": "VIETMSE", "name": "Vietnamese"}
+{"abbrev": "WL ARTS", "name": "World Arts and Cultures"}
+{"abbrev": "YIDDSH", "name": "Yiddish"}
